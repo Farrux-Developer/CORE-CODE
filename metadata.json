@@ -1,0 +1,6 @@
+{
+  "name": "Bespoke Web Studio Portfolio",
+  "description": "Premium cinematic landing page for a high-end web development studio, featuring interactive 3D-like physics, smooth scroll elements, and micro-animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
